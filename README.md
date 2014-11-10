@@ -6,3 +6,9 @@ Install
 ===
 Run in root dir:
 ln -s .vim/.vimrc .vimrc
+
+Installed
+===
+pathogen
+vim-airline
+fugitive

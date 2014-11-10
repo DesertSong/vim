@@ -31,5 +31,9 @@ set undolevels=1000
 
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 
+"vim-airline
 let g:airline_powerline_fonts = 1
 set encoding=utf-8
+
+"Colorscheme
+colorscheme jellybeans

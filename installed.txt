@@ -1,0 +1,3 @@
+homebrew
+pathogen
+vim-airline
