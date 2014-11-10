@@ -32,6 +32,7 @@ set undolevels=1000
 "-------Bundles-------
 "ctrlp
 set runtimepath^=~/.vim/bundle/ctrlp.vim
+set wildignore+=*/tmp/*,*.so,*.swp,*.zip
 
 "vim-airline
 let g:airline_powerline_fonts = 1
