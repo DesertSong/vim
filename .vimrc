@@ -39,6 +39,7 @@ set wildignore+=*/tmp/*,*.so,*.swp,*.zip
 
 "vim-airline
 let g:airline_powerline_fonts = 1
+let g:airline#extensions#tabline#enabled = 1
 set encoding=utf-8
 
 "vim-gitgutter
