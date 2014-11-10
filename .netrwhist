@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/randolf/.vim'
+let g:netrw_dirhist_2='/Users/randolf/.vim/.git'
+let g:netrw_dirhist_3='/Users/randolf/.vim/.git/info'
+let g:netrw_dirhist_4='/Users/randolf/.vim'
+let g:netrw_dirhist_5='/Users/randolf/.vim/.git'

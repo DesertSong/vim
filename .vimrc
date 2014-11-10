@@ -29,6 +29,9 @@ set smartindent
 set cindent
 set undolevels=1000
 
+"Sets default Explore list mode
+let g:netrw_liststyle=3
+
 "-------Bundles-------
 "ctrlp
 set runtimepath^=~/.vim/bundle/ctrlp.vim
@@ -37,6 +40,9 @@ set wildignore+=*/tmp/*,*.so,*.swp,*.zip
 "vim-airline
 let g:airline_powerline_fonts = 1
 set encoding=utf-8
+
+"vim-gitgutter
+let g:gitgutter_max_signs = 300
 
 "Colorscheme
 colorscheme jellybeans

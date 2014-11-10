@@ -13,3 +13,5 @@ pathogen
 vim-airline
 fugitive
 ctrlp
+vim-gitgutter
+syntastic
