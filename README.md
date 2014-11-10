@@ -12,3 +12,4 @@ Installed
 pathogen
 vim-airline
 fugitive
+ctrlp

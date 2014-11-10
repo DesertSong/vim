@@ -29,6 +29,8 @@ set smartindent
 set cindent
 set undolevels=1000
 
+"-------Bundles-------
+"ctrlp
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 
 "vim-airline
